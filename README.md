@@ -1,1 +1,2 @@
-This is a project that does google search
+# Google Homepage
+This is a project that clones the google homepage
